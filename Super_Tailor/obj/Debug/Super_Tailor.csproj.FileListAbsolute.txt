@@ -1,0 +1,16 @@
+c:\users\arbaz\documents\visual studio 2012\Projects\Super_Tailor\Super_Tailor\bin\Debug\Super_Tailor.exe
+c:\users\arbaz\documents\visual studio 2012\Projects\Super_Tailor\Super_Tailor\bin\Debug\Super_Tailor.pdb
+c:\users\arbaz\documents\visual studio 2012\Projects\Super_Tailor\Super_Tailor\obj\Debug\Super_Tailor.csprojResolveAssemblyReference.cache
+c:\users\arbaz\documents\visual studio 2012\Projects\Super_Tailor\Super_Tailor\obj\Debug\Super_Tailor.Properties.Resources.resources
+c:\users\arbaz\documents\visual studio 2012\Projects\Super_Tailor\Super_Tailor\obj\Debug\Super_Tailor.csproj.GenerateResource.Cache
+c:\users\arbaz\documents\visual studio 2012\Projects\Super_Tailor\Super_Tailor\obj\Debug\Super_Tailor.exe
+c:\users\arbaz\documents\visual studio 2012\Projects\Super_Tailor\Super_Tailor\obj\Debug\Super_Tailor.pdb
+c:\users\arbaz\documents\visual studio 2012\Projects\Super_Tailor\Super_Tailor\obj\Debug\Super_Tailor.Home.resources
+c:\users\arbaz\documents\visual studio 2012\Projects\Super_Tailor\Super_Tailor\obj\Debug\Super_Tailor.Login1.resources
+c:\users\arbaz\documents\visual studio 2012\Projects\Super_Tailor\Super_Tailor\obj\Debug\Super_Tailor.Add_Customer.resources
+C:\Users\Arbaz\Documents\Visual Studio 2012\Projects\Super_Tailor\Super_Tailor\obj\Debug\Super_Tailor.Add_Product.resources
+C:\Users\Arbaz\Documents\Visual Studio 2012\Projects\Super_Tailor\Super_Tailor\obj\Debug\Super_Tailor.GenBilling.resources
+C:\Users\Arbaz\Documents\Visual Studio 2012\Projects\Super_Tailor\Super_Tailor\bin\Debug\Super_Tailor.exe.config
+C:\Users\Arbaz\Documents\Visual Studio 2012\Projects\Super_Tailor\Super_Tailor\obj\Debug\Super_Tailor.Print.resources
+C:\Users\Arbaz\Documents\Visual Studio 2012\Projects\Super_Tailor\Super_Tailor\bin\Debug\CrystalReport1.rpt
+C:\Users\Arbaz\Documents\Visual Studio 2012\Projects\Super_Tailor\Super_Tailor\bin\Debug\CrystalReport1.cs
